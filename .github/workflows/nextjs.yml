@@ -17,6 +17,8 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  #TESTING
+  fdsf
 
 # Allow one concurrent deployment
 concurrency:
